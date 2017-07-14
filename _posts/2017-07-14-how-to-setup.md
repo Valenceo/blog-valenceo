@@ -10,11 +10,10 @@ So, you know `git` and are comfortable over on [github.com](https://github.com)?
 
 1. Choose a [Jekyll](http://jekyllrb.com) theme, such as [Poole](http://github.com/poole) or even consider straight-up copything [mine]({{ site.github.repo }}). You'll replace the lame content later.
 2. If you've chosen wisely, fork your theme into a new repo on github. Name and describe it appropriately, to find it later and avoid misunderstandings.
-3. A few changes to settings are necessary: (go to the Settings gear)
+3. Modify any personalized parts of `_config.yml`, the \_posts directory, and nuke CNAME (if it exists).
+4. A few changes to settings are necessary: (go to the Settings gear)
   * Down in GitHub Pages:
     1. Source -> Master Branch -> Save
     2. Custom Domain -> (enter yours) -> Save
-4. With your DNS registrar, enter a CNAME record for your custom domain entry to (your-github-username).github.io
-
-Shout out to [Jekyll](http://jekyllrb.com) and [Poole](http://github.com/poole) for static site generation and templates. Contributing to this blog is automated via the [GitHub repository]({{ site.github.repo }}).
-
+5. With your DNS registrar, enter a CNAME record for your custom domain entry to (your-github-username).github.io
+6. When you `git pull` in your local repo, you'll see a new file, `CNAME` appear.
