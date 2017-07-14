@@ -1,0 +1,20 @@
+---
+layout: post
+title: Stop wasting time on your mediocre site
+---
+
+# Set up and host a static site (like this one) with Github Pages
+## For free!
+
+So, you know `git` and are comfortable over on [github.com](https://github.com)? You say you have your own domain and something to say? Then, suffer no longer!
+
+1. Choose a [Jekyll](http://jekyllrb.com) theme, such as [Poole](http://github.com/poole) or even consider straight-up copything [mine]({{ site.github.repo }}). You'll replace the lame content later.
+2. If you've chosen wisely, fork your theme into a new repo on github. Name and describe it appropriately, to find it later and avoid misunderstandings.
+3. A few changes to settings are necessary: (go to the Settings gear)
+  * Down in GitHub Pages:
+    1. Source -> Master Branch -> Save
+    2. Custom Domain -> (enter yours) -> Save
+4. With your DNS registrar, enter a CNAME record for your custom domain entry to (your-github-username).github.io
+
+Shout out to [Jekyll](http://jekyllrb.com) and [Poole](http://github.com/poole) for static site generation and templates. Contributing to this blog is automated via the [GitHub repository]({{ site.github.repo }}).
+
