@@ -25,6 +25,8 @@ author:
 version:             2.0.0
 github:
   repo:              https://github.com/matt-hayden/blog-valenceo
+google_analytics:
+  id:                UA-102590217-1
 
 # Gems
 gems:
