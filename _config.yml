@@ -18,13 +18,13 @@ sass:
 # About/contact
 author:
   name:              Matt Hayden
-  url:               https://github.com/matt-hayden
-  email:             manager+blog@valenceo.com
+  url:               https://github.com/Valenceo
+  email:             webmaster+blog@valenceo.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/matt-hayden/blog-valenceo
+  repo:              https://github.com/Valenceo/blog-valenceo
 google_analytics:
   id:                UA-102590217-1
 

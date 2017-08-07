@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/valenceo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://blog.valenceo.com
+  * I am valenceo (https://keybase.io/valenceo) on keybase.
+  * I have a public key ASCiofQdNIah7xVmt7fFgLyr0fHoUjptGtnoeEJiFRXu5Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a2a1f41d3486a1ef1566b7b7c580bcabd1f1e8523a6d1ad9e87842621515eee50a",
+      "host": "keybase.io",
+      "kid": "0120a2a1f41d3486a1ef1566b7b7c580bcabd1f1e8523a6d1ad9e87842621515eee50a",
+      "uid": "a2e00a8253eef673f54d7c0f115af619",
+      "username": "valenceo"
+    },
+    "merkle_root": {
+      "ctime": 1502076713,
+      "hash": "7b85ca2c1d692c0b5212606d4cfbc482755458f3630bae7d3fb0b3720e8ddbd9e594e057fd804fe1713aa991a40dfeafcccaaa007cd8dbf85f210cae9afc54c3",
+      "hash_meta": "00a71164a8698d8a31108bb42bdcfac0a1dffd341b21a0ad755eb587993d2da2",
+      "seqno": 1309369
+    },
+    "service": {
+      "hostname": "blog.valenceo.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.25"
+  },
+  "ctime": 1502076740,
+  "expire_in": 504576000,
+  "prev": "a8a786fa7c87fe7666dee70cbadbd47eb31a4a3c693133f9e3d0d7752e484229",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgoqH0HTSGoe8VZre3xYC8q9Hx6FI6bRrZ6HhCYhUV7uUKp3BheWxvYWTFA0h7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYTJhMWY0MWQzNDg2YTFlZjE1NjZiN2I3YzU4MGJjYWJkMWYxZTg1MjNhNmQxYWQ5ZTg3ODQyNjIxNTE1ZWVlNTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYTJhMWY0MWQzNDg2YTFlZjE1NjZiN2I3YzU4MGJjYWJkMWYxZTg1MjNhNmQxYWQ5ZTg3ODQyNjIxNTE1ZWVlNTBhIiwidWlkIjoiYTJlMDBhODI1M2VlZjY3M2Y1NGQ3YzBmMTE1YWY2MTkiLCJ1c2VybmFtZSI6InZhbGVuY2VvIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTAyMDc2NzEzLCJoYXNoIjoiN2I4NWNhMmMxZDY5MmMwYjUyMTI2MDZkNGNmYmM0ODI3NTU0NThmMzYzMGJhZTdkM2ZiMGIzNzIwZThkZGJkOWU1OTRlMDU3ZmQ4MDRmZTE3MTNhYTk5MWE0MGRmZWFmY2NjYWFhMDA3Y2Q4ZGJmODVmMjEwY2FlOWFmYzU0YzMiLCJoYXNoX21ldGEiOiIwMGE3MTE2NGE4Njk4ZDhhMzExMDhiYjQyYmRjZmFjMGExZGZmZDM0MWIyMWEwYWQ3NTVlYjU4Nzk5M2QyZGEyIiwic2Vxbm8iOjEzMDkzNjl9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYmxvZy52YWxlbmNlby5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjI1In0sImN0aW1lIjoxNTAyMDc2NzQwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImE4YTc4NmZhN2M4N2ZlNzY2NmRlZTcwY2JhZGJkNDdlYjMxYTRhM2M2OTMxMzNmOWUzZDBkNzc1MmU0ODQyMjkiLCJzZXFubyI6NCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAbOO5Zl16T7GGzrA/EbOmiK3HG/zHHTG35mlB3dIl4ycZS42LUzvtoCjhiizB8W7wOOU9DUexDCUU3V8cG7j4MqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgetrjMK9CEBFGm1j8lw0p843SFcfHQF3HY+J4WuVsWf6jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/valenceo
+
+==================================================================
